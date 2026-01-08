@@ -23,17 +23,21 @@ The dataset contains:
 - zone
 - occupation
 
-## 🔍 Analysis Performed
-- The most sellers are female
--  most of the buyers are of age group between 26-35 yrs femaleS
--  most of the buyers are married women
--  most of the are working in IT, Healthcare and Aviation
+## 🔍Sales Analysis Performed
+- Gender Analysis
+- age group analysis
+- maritial analysis
+- occupation analysis
+- 
 -  
 
 ## 📊 Key Insights
-- Certain products sell much more during Diwali
-- Revenue peaks on specific festival days
-- Helps shop owners plan stock for future festivals
+-  The most sellers are female
+-  most of the buyers are of age group between 26-35 yrs femaleS
+-  most of the buyers are married women
+-  most of the are working in IT, Healthcare and Aviation
+- 
+- 
 
 ## ✅ Conclusion
 This analysis helps shop owners make better decisions, 
