@@ -1,7 +1,5 @@
-# diwali-sales-analysis
+# Diwali-sales-analysis
 Diwali sales Analysis with python and jupyter notebook
-# Diwali Sales Analysis
-
 ## 📌 Project Overview
 This project analyzes sales data of a local shop during Diwali festival.
 The goal is to understand product sales, revenue trends, and customer buying patterns.
